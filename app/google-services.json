@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "292458557461",
+    "firebase_url": "https://shreeyak-370bd.firebaseio.com",
+    "project_id": "shreeyak-370bd",
+    "storage_bucket": "shreeyak-370bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292458557461:android:18dafa8e3a9049ff",
+        "android_client_info": {
+          "package_name": "com.example.admin.shreeyak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292458557461-5ktl1pn0mldr3g6to6ushpf5oij0l59v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.shreeyak",
+            "certificate_hash": "38a0cc9d84e0e44ba9344c4d038f03ad3f63c5a5"
+          }
+        },
+        {
+          "client_id": "292458557461-07vu17jum5ht5svsfrm39lejrmrv0n90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdhMZeoqGciRLSROXjleAFwD3BkScEf8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292458557461-07vu17jum5ht5svsfrm39lejrmrv0n90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
